@@ -1,6 +1,10 @@
 # DOM-ination
 
-Given the HTML in index.html, make the following changes with javascript – don't change the index.html file!:
+Fork and clone the following starter repo
+
+*Starter Repo*: [https://gitlab.com/kenzie-academy/se/fe/dom-ination](https://gitlab.com/kenzie-academy/se/fe/dom-ination)
+
+Given the HTML in index.html, make the following changes with javascript – don't change the index.html file!
 
 - Any time someone clicks on the title at the top "feed template,"
   make the color of the "feed template" text change from black to red
