@@ -1,5 +1,3 @@
-# DOM-ination
-
 Fork and clone the following starter repo
 
 *Starter Repo*: [https://gitlab.com/kenzie-academy/se/fe/dom-ination](https://gitlab.com/kenzie-academy/se/fe/dom-ination)
