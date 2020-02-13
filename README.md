@@ -11,5 +11,4 @@ Given the HTML in index.html, make the following changes with javascript – don
 - Change every instance of the word "bacon" on the page to be "LASER VISION"
 - Delete the last two posts in the middle section (they have a CSS class "post")
 - Remove the images in the right column
-  - Note: this change should not change the 3 column layout of the page.
 
