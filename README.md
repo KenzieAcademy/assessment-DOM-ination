@@ -1,6 +1,6 @@
 Fork and clone the following starter repo
 
-_Starter Repo_: [https://gitlab.com/kenzie-academy/se/fe/dom-ination](https://gitlab.com/kenzie-academy/se/fe/dom-ination)
+_Starter Repo_: [https://github.com/KenzieAcademy/assessment-DOM-ination](https://github.com/KenzieAcademy/assessment-DOM-ination)
 
 Given the HTML in index.html, make the following changes with javascript – don't change the index.html file!
 
